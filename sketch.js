@@ -1,4 +1,4 @@
-// 🎨 现代复古配色 (Crisp Modern Retro)
+//  现代复古配色 (Crisp Modern Retro)
 const COLORS = {
     bg: '#fdfdfd',            
     body: '#f4efe6',          // 骨瓷白机身
